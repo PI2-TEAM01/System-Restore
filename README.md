@@ -10,3 +10,5 @@ Restore the configuration of the ESP8266
 ```
 git clone https://github.com/PI2-TEAM01/System-Restore.git
 ```
+4. Build
+5. Upload
