@@ -1,5 +1,5 @@
 
-Restore the configuration of the ESP8266
+# Restore the configuration of the ESP8266
 
 
 #### Getting Started
